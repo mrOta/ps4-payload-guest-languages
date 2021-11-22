@@ -36,12 +36,12 @@
 
   "errorNoPayloads": "No hay Payloads disponibles :(",
 
-  "errorSendPayloadOpen": "",
-  "errorSendPayloadBuffer": "",
-  "errorSendPayloadRead": "",
-  "errorSendPayloadCreateSocket": "",
-  "errorSendPayloadConnect": "",
-  "errorSendPayloadSend": "",
+  "errorSendPayloadOpen": "No se puede abrir el Payload",
+  "errorSendPayloadBuffer": "No se puede asignar el búfer del Payload",
+  "errorSendPayloadRead": "No se puede leer Payload en el búfer",
+  "errorSendPayloadCreateSocket": "No se puede crear socket",
+  "errorSendPayloadConnect": "No se puede conectar al servidor",
+  "errorSendPayloadSend": "No se pe enviar el Payload",
 
   "errorShellcodeOpen": "No se puede abrir: %s",
   "errorShellcodeMmap": "No se pudo aplicar mmap en el payload",
