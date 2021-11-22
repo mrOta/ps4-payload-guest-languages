@@ -1,4 +1,6 @@
 {
+  "unknownKey": "",
+  
   "mainTitle": "Payload Guest",
   "creditsTitle": "Créditos",
 
@@ -33,11 +35,18 @@
   "errorMetadataMissingPayloadFile": "No se pudo encontrar el Payload",
 
   "errorNoPayloads": "No hay Payloads disponibles :(",
+  
+  "errorSendPayloadOpen": "No se pudo abrir el payload",
+  "errorSendPayloadBuffer": "No se pudo asignar el buffer para el payload",
+  "errorSendPayloadRead": "No se pudo leer el payload en el buffer",
+  "errorSendPayloadCreateSocket": "No se pudo crear el socket",
+  "errorSendPayloadConnect": "No se pudo conectar al servidor",
+  "errorSendPayloadSend": "No se pudo enviar el payload",
 
   "errorShellcodeOpen": "No se puede abrir: %s",
   "errorShellcodeMmap": "No se pudo aplicar mmap en el payload",
   "errorShellcodeMprotect": "No se pudo aplicar mprotect en el payload",
   "errorShellcodeMunmap": "No se pudo aplicar munmap en el payload",
 
-  "creditsText": "mr0ta"
+  "creditsText": ""
 }
